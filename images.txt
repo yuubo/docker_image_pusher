@@ -1,1 +1,1 @@
-nginx
+zookeeper:3.9.3
