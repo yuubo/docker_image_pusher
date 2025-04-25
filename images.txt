@@ -1,1 +1,1 @@
-seata
+seataio/seata-server:2.2.0
