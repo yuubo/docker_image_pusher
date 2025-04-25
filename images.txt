@@ -1,2 +1,1 @@
-zookeeper:3.9.3
-bitnami/kafka:2.8.1
+seata:2.1.0
